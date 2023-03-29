@@ -1,1 +1,1 @@
-document.querySelector("h1").innerHTML = ("Goodbay");               
+document.querySelector("h1").innerHTML = ("Goodbay");       
